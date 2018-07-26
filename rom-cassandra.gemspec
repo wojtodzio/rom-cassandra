@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = ">= 1.9.3"
 
-  gem.add_runtime_dependency "cassandra-driver", "~> 2.1"
+  gem.add_runtime_dependency "cassandra-driver", "~> 3.2"
   gem.add_runtime_dependency "inflecto", "~> 0.0"
   gem.add_runtime_dependency "query_builder", "~> 0.0"
   gem.add_runtime_dependency "rom", "~> 0.9.1"
